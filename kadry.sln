@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kadry", "kadry.csproj", "{07775B31-FDA7-4898-9028-C376453A22BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07775B31-FDA7-4898-9028-C376453A22BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07775B31-FDA7-4898-9028-C376453A22BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07775B31-FDA7-4898-9028-C376453A22BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07775B31-FDA7-4898-9028-C376453A22BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39BEA83E-1D3C-4DBE-B661-43CC9FDC0283}
+	EndGlobalSection
+EndGlobal
